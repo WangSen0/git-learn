@@ -23,8 +23,8 @@ go build
 * name       项目名字
 * appkey     项目的key
 * logformat  日志格式文件位置
-- logfile    日志文件位置
-- listen     服务监听端口号，例如8080
-- domain     aptly-proxy服务地址，例如http://192.168.1.2:8080
-- auth       单点登录地址，例如http://bigdata-view.cootekservice.com:50200
-- aptlyUrl   aptly服务地址，例如http://192.168.1.3:8080
+* logfile    日志文件位置
+* listen     服务监听端口号，例如8080
+* domain     aptly-proxy服务地址，例如http://192.168.1.2:8080
+* auth       单点登录地址，例如http://bigdata-view.cootekservice.com:50200
+* aptlyUrl   aptly服务地址，例如http://192.168.1.3:8080
