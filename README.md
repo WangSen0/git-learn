@@ -22,3 +22,4 @@ go build
 上传文件到仓库      aptly-cli file upload -filepath=filepath -distribution=dis -component=com testing
 查看版本            aptly-cli version
 ```
+`注意`:使用aptly-cli之前，需要先启动aptly和aptly-proxy服务
