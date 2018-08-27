@@ -11,8 +11,8 @@ go build
 ```
 在aptly-cli顶层目录下，你就得到了`aptly-cli`的启动文件
 # aptly-proxy的使用
-```
 `./aptly-cli -help`会列出所有可以使用的命令
+```
 列出所有仓库        aptly-cli repo list
 创建仓库            aptly-cli repo create -distribution=dis -component=com testing
 增加分支            aptly-cli repo add -distribution=dis -component=com testing
