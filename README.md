@@ -24,5 +24,5 @@ go build
 ```
 `注意:`使用aptly-cli之前，需要先启动aptly和aptly-proxy服务。
 # 仓库的使用
-    + 添加源 `echo "deb http://your-server/<prefix> <distribution> <component>" | sudo tee /etc/apt/sources.list`
-    + 更新源 `sudo apt-get update`
++ 添加源 `echo "deb http://your-server/<prefix> <distribution> <component>" | sudo tee /etc/apt/sources.list`
++ 更新源 `sudo apt-get update`
